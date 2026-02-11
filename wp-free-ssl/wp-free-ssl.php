@@ -1,7 +1,7 @@
 <?php
 
 /*
-Plugin Name: WP FREE SSL - Free SSL Certificate for WordPress and force HTTPS WP SSL Pro
+Plugin Name: WP Free SSL
 Plugin URI: http://wordpress.org/plugins/wp-free-ssl/
 Description: Get FREE SSL for wordpress
 Author: Prasad Kirpekar

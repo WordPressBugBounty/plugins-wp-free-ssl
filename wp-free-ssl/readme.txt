@@ -1,5 +1,5 @@
-=== WP Free SSL - Free SSL Certificate for WordPress and force HTTPS ===
-Contributors: Prasad Kirpekar, freemius
+=== WP Free SSL ===
+Contributors: prasadkirpekar
 Donate link: - https://paypal.me/prasadkirpekar
 Tags: free,ssl,https,secured,ssl certificate
 Requires at least: 3.0.1
@@ -8,7 +8,7 @@ Stable tag: 1.2.8
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Easy SSL Solution - One click free SSL certificate and HTTPS, Fix Insecure content & mixed content. Force WordPress to SSL instantly and download SSL certificate
+One click free SSL certificate and Force HTTPS
 
 == Description ==
 
